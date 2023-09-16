@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+header, section, footer {
+    margin-bottom: 40px;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+.project-card {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #eaeaea;
+}
+
+a {
+    color: #0077b5;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
